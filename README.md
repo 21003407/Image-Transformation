@@ -28,8 +28,8 @@ End the execution.
 
 ## Program:
 ```python
-Developed By: Pranave B
-Register Number: 212221240040
+Developed By: Joans Jai Authers
+Register Number: 212221240019
 
 i)Image Translation
 
