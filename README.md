@@ -125,7 +125,7 @@ plt.show
 
 ### vi)Image Cropping
 
-![](Ci.png)
+![](CI.png)
 
 
 ## Result: 
